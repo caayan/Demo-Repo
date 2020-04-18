@@ -238,5 +238,5 @@ form button, textarea, input {
     z-index: 20;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(orange, purple, yellow, pink)
+    background-image: linear-gradient(blue, purple, yellow, pink)
 }
